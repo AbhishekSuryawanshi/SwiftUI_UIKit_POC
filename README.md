@@ -1,6 +1,12 @@
 # SwiftUI_UIKit_POC
 
- MVVM
+- [ ] MVVM
+- [ ]  UserDefault
+- [ ]  URLSession
+- [ ]  SwiftUI
+- [ ]  UIKit
+- [ ]  AVKit
+- [ ]  Test Cases
  UserDefault
  URLSession
  SwiftUI
